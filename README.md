@@ -3,12 +3,9 @@
 Simple blog application using React Router + Redux.
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/jamesalmeida/React-Blog.git
+> cd React-blog
 > npm install
 > npm start
 ```
